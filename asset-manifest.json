@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kaaf3/static/css/main.ba143691.css",
-    "main.js": "/kaaf3/static/js/main.74ec9c2e.js",
+    "main.css": "/kaaf3/static/css/main.f5477a03.css",
+    "main.js": "/kaaf3/static/js/main.bcb14af8.js",
     "static/js/787.a6c3ee6d.chunk.js": "/kaaf3/static/js/787.a6c3ee6d.chunk.js",
     "static/media/Birthday-133.jpg": "/kaaf3/static/media/Birthday-133.1ec80cc169a7509cea65.jpg",
     "static/media/12.jpg": "/kaaf3/static/media/12.f50fd35300b0497eec59.jpg",
@@ -17,12 +17,12 @@
     "static/media/8.jpg": "/kaaf3/static/media/8.a245cdaec1736e1dd391.jpg",
     "static/media/10.jpg": "/kaaf3/static/media/10.4b6f2ef17019537c3214.jpg",
     "index.html": "/kaaf3/index.html",
-    "main.ba143691.css.map": "/kaaf3/static/css/main.ba143691.css.map",
-    "main.74ec9c2e.js.map": "/kaaf3/static/js/main.74ec9c2e.js.map",
+    "main.f5477a03.css.map": "/kaaf3/static/css/main.f5477a03.css.map",
+    "main.bcb14af8.js.map": "/kaaf3/static/js/main.bcb14af8.js.map",
     "787.a6c3ee6d.chunk.js.map": "/kaaf3/static/js/787.a6c3ee6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba143691.css",
-    "static/js/main.74ec9c2e.js"
+    "static/css/main.f5477a03.css",
+    "static/js/main.bcb14af8.js"
   ]
 }
